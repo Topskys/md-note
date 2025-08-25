@@ -1,6 +1,6 @@
 import { ComponentProps } from 'react'
 import { cn, formatDateFromMs } from '@renderer/utils'
-import { NoteInfo } from '@shared/model'
+import { NoteInfo } from '@shared/models'
 
 export type NotePreviewProps = {
   isActive?: boolean
